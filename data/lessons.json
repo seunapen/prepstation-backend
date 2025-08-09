@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Variables & Expressions",
+    "courseTitle": "Mathematics Basics",
+    "content": "Intro to variables",
+    "order": 1
+  },
+  {
+    "title": "Basic Addition",
+    "courseTitle": "Mathematics Basics",
+    "content": "Adding numbers",
+    "order": 2
+  },
+  {
+    "title": "Nouns & Pronouns",
+    "courseTitle": "English Essentials",
+    "content": "Parts of speech",
+    "order": 1
+  }
+]

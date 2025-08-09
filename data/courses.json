@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Mathematics Basics",
+    "description": "Foundational math for primary learners",
+    "level": "Primary",
+    "subjects": [
+      "Algebra",
+      "Arithmetic"
+    ]
+  },
+  {
+    "title": "English Essentials",
+    "description": "Grammar and comprehension basics",
+    "level": "Primary",
+    "subjects": [
+      "Grammar",
+      "Comprehension"
+    ]
+  },
+  {
+    "title": "Science Starter",
+    "description": "Introductory science topics",
+    "level": "Primary",
+    "subjects": [
+      "Biology",
+      "Physics"
+    ]
+  }
+]

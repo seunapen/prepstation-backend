@@ -1,0 +1,16 @@
+[
+  {
+    "name": "St. Mary's Primary",
+    "type": "primary",
+    "location": "Lagos",
+    "curriculum": "Local",
+    "fees": 200000
+  },
+  {
+    "name": "Bright Future Secondary",
+    "type": "secondary",
+    "location": "Abuja",
+    "curriculum": "Local",
+    "fees": 350000
+  }
+]

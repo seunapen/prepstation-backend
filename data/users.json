@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@prepstation.test",
+    "role": "admin"
+  },
+  {
+    "name": "Alice Student",
+    "email": "alice@student.test",
+    "role": "student"
+  },
+  {
+    "name": "Bob Parent",
+    "email": "bob@parent.test",
+    "role": "parent"
+  }
+]

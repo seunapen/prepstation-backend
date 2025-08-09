@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Math Quiz 1",
+    "courseTitle": "Mathematics Basics",
+    "questions": [
+      {
+        "questionText": "2+2",
+        "choices": [
+          "3",
+          "4",
+          "5"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "English Quiz 1",
+    "courseTitle": "English Essentials",
+    "questions": [
+      {
+        "questionText": "Select the noun",
+        "choices": [
+          "Run",
+          "Apple",
+          "Blue"
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
